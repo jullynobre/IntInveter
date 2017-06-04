@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496617861 source:c:\users\nobre\documents\github\intinveter\main.c
+	<stdio.h>
+	<stdlib.h>
+
